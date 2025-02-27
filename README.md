@@ -31,3 +31,4 @@ Setup Instructions
 git clone https://github.com/greeshma708/Assignement-2.git
 cd Assignement-2
 npm install
+npm start
